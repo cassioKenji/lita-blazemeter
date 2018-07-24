@@ -2,7 +2,7 @@ Gem::Specification.new do |spec|
   spec.name          = "lita-blazemeter"
   spec.version       = "0.1.0"
   spec.authors       = ["Cassio Kenji Oshiro Batista"]
-  spec.email         = ["cbatista.ext@vr.com.br"]
+  spec.email         = ["chaoscifer@gmail.com"]
   spec.description   = "TODO: Add a description"
   spec.summary       = "TODO: Add a summary"
   spec.homepage      = "TODO: Add a homepage"
